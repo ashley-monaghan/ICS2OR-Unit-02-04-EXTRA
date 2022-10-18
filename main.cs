@@ -23,7 +23,7 @@ class Program{
         area = (heightOfTriangle * baseOfTriangle) / 2;
 
         Console.WriteLine("");
-        Console.WriteLine("The area is: " + area + " cm². ");
+        Console.WriteLine("The area is: " + area + " cm² ");
 
         Console.WriteLine("\nDone.");
     }
