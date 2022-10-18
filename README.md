@@ -5,5 +5,3 @@
 [![Run on Repl.it](https://repl.it/badge/github/ashley-monaghan/ICS2OR-Unit-02-04-EXTRA)](https://repl.it/github/ashley-monaghan/ICS2OR-Unit-02-04-EXTRA)
 
 This site can be found at: [https://ashley-monaghan.github.io/ICS2OR-Unit-02-04-EXTRA](https://ashley-monaghan.github.io/ICS2OR-Unit-02-04-EXTRA)
-
-dotnet format --verify-no-changes
