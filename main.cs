@@ -6,7 +6,7 @@
 using System;
 
 class Program{
-    public static void Main(string[] args){
+    public static void Main (string[] args) {
         // This function accepts user input
         int heightOfTriangle;
         int baseOfTriangle;
@@ -23,7 +23,7 @@ class Program{
         area = (heightOfTriangle * baseOfTriangle) / 2;
 
         Console.WriteLine("");
-        Console.WriteLine("The area is: " + area + " cm² ");
+        Console.WriteLine("The area is: " + area + " cm². ");
 
         Console.WriteLine("\nDone.");
     }
