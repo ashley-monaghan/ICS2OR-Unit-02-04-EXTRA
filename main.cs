@@ -5,9 +5,9 @@
 
 using System;
 
-class Program 
+class Program
 {
-    public static void Main (string[] args) 
+    public static void Main(string[] args)
     {
         // This function accepts user imput
         int heightOfTriangle;
@@ -16,7 +16,7 @@ class Program
 
         Console.WriteLine("This program calculates the area of a triangle.");
         Console.WriteLine("");
-        
+
         Console.Write("Enter the height (cm): ");
         heightOfTriangle = Convert.ToInt32(Console.ReadLine());
         Console.Write("Enter the base (cm): ");
