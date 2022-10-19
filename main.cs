@@ -1,7 +1,15 @@
+// Created by: Ashley Monaghan
+// Created on: Oct 2022
+//
+//This program calculates area of a triangle
+
 using System;
 
-class Program{
-    public static void Main (string[] args) {
+class Program 
+{
+    public static void Main (string[] args) 
+    {
+        // This function accepts user imput
         int heightOfTriangle;
         int baseOfTriangle;
         int area;
